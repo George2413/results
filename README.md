@@ -1,3 +1,8 @@
+# 模型主要创新点
+## 模拟画家对于素描的绘制过程，将传统的人脸到素描之间一对一映射，变成了先描绘出来五官轮廓，再逐渐增加更多的细节，最后绘制出形象的人像素描。
+## 主要难点设计：利用前一步图生成的信息，辅助后一个步合成
+
+
 # 模型在两个不同数据集的实验结果
 ## 外国人脸数据集--第一排表示真实数据集，第二排表示模型生成的结果
 <img src="https://github.com/George2413/results/blob/main/results/foreigners/1.png" width="400" height="220"/>  <img src="https://github.com/George2413/results/blob/main/results/foreigners/2.png" width="400" height="220"/><br/>
