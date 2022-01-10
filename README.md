@@ -13,10 +13,10 @@
 <img src="https://github.com/George2413/experimental-result/blob/main/results/foreigners/7.png" width="400" height="220"/> &emsp;  <img src="https://github.com/George2413/experimental-result/blob/main/results/foreigners/8.png" width="400" height="220"/><br/>
 
 ## 学生证数据集--第一排表示真实数据集，第二排表示模型生成的结果
-<img src="https://github.com/George2413/experimental-results/blob/main/results/students/1.png" width="400" height="220"/> &emsp;  <img src="https://github.com/George2413/experimental-results/blob/main/results/students/2.png" width="400" height="220"/><br/>
+<img src="https://github.com/George2413/experimental-result/blob/main/results/students/1.png" width="400" height="220"/> &emsp;  <img src="https://github.com/George2413/experimental-result/blob/main/results/students/2.png" width="400" height="220"/><br/>
 
-<img src="https://github.com/George2413/experimental-results/blob/main/results/students/3.png" width="400" height="220"/> &emsp;  <img src="https://github.com/George2413/experimental-results/blob/main/results/students/4.png" width="400" height="220"/><br/>
+<img src="https://github.com/George2413/experimental-result/blob/main/results/students/1.png" width="400" height="220"/> &emsp;  <img src="https://github.com/George2413/experimental-result/blob/main/results/students/4.png" width="400" height="220"/><br/>
 
-<img src="https://github.com/George2413/experimental-results/blob/main/results/students/5.png" width="400" height="220"/> &emsp;  <img src="https://github.com/George2413/experimental-results/blob/main/results/students/6.png" width="400" height="220"/><br/>
+<img src="https://github.com/George2413/experimental-result/blob/main/results/students/5.png" width="400" height="220"/> &emsp;  <img src="https://github.com/George2413/experimental-result/blob/main/results/students/6.png" width="400" height="220"/><br/>
 
-<img src="https://github.com/George2413/experimental-results/blob/main/results/students/7.png" width="400" height="220"/> &emsp;  <img src="https://github.com/George2413/results/blob/main/experimental-results/students/8.png" width="400" height="220"/><br/>
+<img src="https://github.com/George2413/experimental-result/blob/main/results/students/7.png" width="400" height="220"/> &emsp;  <img src="https://github.com/George2413/experimental-result/blob/main/results/students/8.png" width="400" height="220"/><br/>
