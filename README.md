@@ -1,5 +1,5 @@
-# 模型在两个不同数据集的实验结果--第一排表示真实数据集，第二排表示模型生成的结果
-## 外国人脸数据集
+# 模型在两个不同数据集的实验结果
+## 外国人脸数据集--第一排表示真实数据集，第二排表示模型生成的结果
 <img src="https://github.com/George2413/results/blob/main/results/foreigners/1.png" width="400" height="220"/>  <img src="https://github.com/George2413/results/blob/main/results/foreigners/2.png" width="400" height="220"/><br/>
 
 <img src="https://github.com/George2413/results/blob/main/results/foreigners/3.png" width="400" height="220"/>  <img src="https://github.com/George2413/results/blob/main/results/foreigners/4.png" width="400" height="220"/><br/>
@@ -8,7 +8,7 @@
 
 <img src="https://github.com/George2413/results/blob/main/results/foreigners/7.png" width="400" height="220"/>  <img src="https://github.com/George2413/results/blob/main/results/foreigners/8.png" width="400" height="220"/><br/>
 
-## 学生证数据集
+## 学生证数据集--第一排表示真实数据集，第二排表示模型生成的结果
 <img src="https://github.com/George2413/results/blob/main/results/students/1.png" width="400" height="220"/>  <img src="https://github.com/George2413/results/blob/main/results/students/2.png" width="400" height="220"/><br/>
 
 <img src="https://github.com/George2413/results/blob/main/results/students/3.png" width="400" height="220"/>  <img src="https://github.com/George2413/results/blob/main/results/students/4.png" width="400" height="220"/><br/>
